@@ -23,9 +23,4 @@ Welcome to my GitHub profile! I'm a passionate software developer from Münster,
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-## 📈 GitHub Stats
-
-![jkrumboe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkrumboe&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkrumboe&layout=compact&theme=radical)
-
 Let's connect and collaborate on exciting projects!
