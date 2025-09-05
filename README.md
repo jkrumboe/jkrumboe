@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer from Münster,
 ## About Me
 
 - **Profession**: Student, Working Student (Werkstudent)
-- 🛠**Tech Stack**: JavaScript, React, Python, Java
+- **Tech Stack**: JavaScript, React, Python, Java
 - **Currently Learning**: TypeScript, Docker, Node.js, Express 
 - **Goal**: Contribute to open-source projects and collaborate with developers worldwide
 
