@@ -1,15 +1,15 @@
-# 👋 Hi there, I'm Justin Krumböhmer
+# Hi there, I'm Justin Krumböhmer
 
 Welcome to my GitHub profile! I'm a passionate software developer from Münster, Germany 🇩🇪, with a keen interest in building efficient and scalable web applications.
 
-## 🚀 About Me
+## About Me
 
-- 💼 **Profession**: Student, Working Student (Werkstudent)
-- 🛠️ **Tech Stack**: JavaScript, React, Python, Java
-- 🌱 **Currently Learning**: TypeScript, Docker, Node.js, Express 
-- 🎯 **Goal**: Contribute to open-source projects and collaborate with developers worldwide
+- **Profession**: Student, Working Student (Werkstudent)
+- 🛠**Tech Stack**: JavaScript, React, Python, Java
+- **Currently Learning**: TypeScript, Docker, Node.js, Express 
+- **Goal**: Contribute to open-source projects and collaborate with developers worldwide
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
