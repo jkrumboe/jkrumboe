@@ -1,6 +1,6 @@
 # Hi there, I'm Justin Krumböhmer
 
-Welcome to my GitHub profile! I'm a passionate software developer from Münster, Germany 🇩🇪, with a keen interest in building efficient and scalable web applications.
+Welcome to my GitHub profile! I'm a passionate software developer from Münster, Germany 🇩🇪, with a keen interest in building web applications.
 
 ## About Me
 
