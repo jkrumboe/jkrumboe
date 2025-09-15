@@ -1,10 +1,7 @@
-# Hi there, I'm Justin Krumböhmer
-
-Welcome to my GitHub profile! I'm a passionate software developer from Münster, Germany 🇩🇪, with a keen interest in building web applications.
-
 ## About Me
 
 - **Profession**: Student, Working Student (Werkstudent)
+- **Location**: Münster, Germany 
 - **Tech Stack**: JavaScript, React, Python, Java
 - **Currently Learning**: TypeScript, Docker, Node.js, Express 
 - **Goal**: Contribute to open-source projects and collaborate with developers worldwide
