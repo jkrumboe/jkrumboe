@@ -19,5 +19,3 @@ Welcome to my GitHub profile! I'm a passionate software developer from Münster,
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-Let's connect and collaborate on exciting projects!
