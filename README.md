@@ -1,10 +1,7 @@
 ## About Me
 
 - **Profession**: Student, Working Student (Werkstudent)
-- **Location**: Münster, Germany 
-- **Tech Stack**: JavaScript, React, Python, Java
-- **Currently Learning**: TypeScript, Docker, Node.js, Express 
-- **Goal**: Contribute to open-source projects and collaborate with developers worldwide
+- **Location**: Münster, Germany
 
 ## Tools & Technologies
 
